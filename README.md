@@ -3,10 +3,9 @@
 <h1 align="center">Welcome, I'm Raphael Bennaim 👋</h1>
 <h3 align="center">Last Year Data Science Student at @EPITA</h3>
 
-![Logo](https://github.com/raphrb2/raphrb2/blob/main/header.png)
 
-<img align="right" alt="coderain" width="480" src="https://i.gifer.com/NvL.gif">
-<img align="right" alt="Coding" width="400" src="https://gifer.com/fr/NvL">
+
+<img align="center" alt="coderain" width="1500" height="400" src="https://github.com/raphrb2/raphrb2/blob/main/NvL.gif">
 
 - 🌱 I’m currently learning **Machine & Deep Learning, NLP, Vision...**
 
