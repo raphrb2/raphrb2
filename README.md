@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raphael.bennaim@epita.fr**
 
-- 📄 Know about my experiences [https://shorturl.at/eDGIO](https://shorturl.at/eDGIO)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/raphael-bennaim-35627416b/)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
