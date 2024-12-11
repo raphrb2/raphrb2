@@ -3,7 +3,7 @@
 
 <img align="center" alt="coderain" width="1500" height="400" src="https://github.com/raphrb2/raphrb2/blob/main/NvL.gif">
 
-- 🌱 I’m currently learning **Machine & Deep Learning, NLP, Vision...**
+- 🌱 I’m currently working on **Machine & Deep Learning, NLP and computer Vision** subjects.
 
 - 📫 How to reach me **raphael.bennaim@epita.fr**
 
