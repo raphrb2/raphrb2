@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Raphaël👋</h1>
-<h3 align="center">Last Year Data Science student at @EPITA 👨‍💻</h3>
+<h3 align="center">Graduated Master Degree in Data Science at @EPITA 👨‍💻</h3>
 
 <img align="center" alt="coderain" width="1500" height="400" src="https://github.com/raphrb2/raphrb2/blob/main/NvL.gif">
 
